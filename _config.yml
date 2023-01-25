@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: Flatterer
+  username: vtb-Flatterer
   card: summary
 logo: logo.png
 social:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: vtb-Flatterer
+  url: https://github.com/vtb-Flatterer/
+  email: vtb-Flatterer@gmail.com
