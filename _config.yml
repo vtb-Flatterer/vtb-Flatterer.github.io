@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: vtb-Flatterer
+description: Vtuber舔狗，多喝熔岩
+url: https://vtb-Flatterer.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Flatterer
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/vtb-Flatterer
+    - https://github.com/vtb-Flatterer
 google_site_verification: xxxxx
 lang: en
 
