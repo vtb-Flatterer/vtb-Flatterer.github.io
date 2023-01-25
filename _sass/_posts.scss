@@ -126,3 +126,20 @@
   border: 1px solid var(--border-color);
   border-radius: .5em;
 }
+#nice blockquote {
+  border-left-color: rgb(239, 112, 96);
+  background: #fff9f9;
+}
+#nice a {
+  color: rgb(239, 112, 96);
+  border-bottom: 1px solid rgb(239, 112, 96);
+}
+#nice p code, #nice li code {
+  color: rgb(239, 112, 96);
+}
+#nice .footnote-word {
+  color: #ff3502;
+}
+#nice .footnote-ref {
+  color: rgb(239, 112, 96);
+}
