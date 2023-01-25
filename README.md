@@ -1,3 +1,8 @@
+
+这是一个用来存储我的草稿的blog，不包含任何技术内容，所有文章均为18+，涉及大量虚拟主播内容<br>
+（如同标题，vtb舔狗多喝熔岩）<br>
+下面是开源库原内容，想了解的可以观看<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
