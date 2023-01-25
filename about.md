@@ -1,8 +1,20 @@
 ---
 layout: page
-title: About
+title: 关于
+date: 2023-01-25 21:30 +0800
+last_modified_at: 2023-01-25 21:30 +0800
 ---
+## 简介
+这是一个用于存储我个人所写同人的地方，会比[p站](https://www.pixiv.net/users/14625106) 更新更快（但是也会有半成品）
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+## 关于同人内容
+全部18+，内容如同库名，vtuber舔狗罢了（笑）
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+## 关于涉及的V们
+所写的只是V所表现的样子，不涉及中之人本性
+
+## 关于涉及的范围
+基本都是国v，在b站活动为主，这么说来叫vtuber其实不太合适，不过也无所谓了（笑）
+
+## 关于约稿
+不支持私下约稿，可以p站评论约稿或者拉个issues
