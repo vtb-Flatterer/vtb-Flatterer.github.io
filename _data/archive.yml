@@ -1,9 +1,9 @@
 - type: 内容
   title: 内容
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
 - type: 标签
   title: 标签
   url: /tags/
+- type: 关于
+  title: 关于
+  url: /about/
